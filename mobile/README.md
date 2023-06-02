@@ -74,6 +74,21 @@ Agora você deve ver o QR code e a URL do Expo em seu terminal. Você pode escan
 
 Contribuições de todos os tipos são bem-vindas neste projeto. Se você encontrar um bug ou deseja uma nova funcionalidade, sinta-se à vontade para abrir uma issue ou enviar um Pull Request.
 
-## Licença:
+# Desenvolvedor
 
-MIT
+<a href="https://github.com/SilvaneiMartins">
+    <img
+        style="border-radius:50%"
+        src="https://github.com/SilvaneiMartins.png"
+        width="100px;"
+        alt="Silvanei Martins"
+    />
+    <br />
+    <sub>
+        <b>Silvanei de Almeida Martins</b>
+    </sub>
+</a>
+     <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
+ </a>
+<br />
+🚀 Feito com ❤️ por Silvanei Martins

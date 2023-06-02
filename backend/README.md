@@ -95,6 +95,21 @@ Pull requests são bem-vindas. Para mudanças importantes, por favor, abra um pr
 
 Certifique-se de atualizar os testes conforme apropriado.
 
-## Licença:
+# Desenvolvedor
 
-MIT
+<a href="https://github.com/SilvaneiMartins">
+    <img
+        style="border-radius:50%"
+        src="https://github.com/SilvaneiMartins.png"
+        width="100px;"
+        alt="Silvanei Martins"
+    />
+    <br />
+    <sub>
+        <b>Silvanei de Almeida Martins</b>
+    </sub>
+</a>
+     <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
+ </a>
+<br />
+🚀 Feito com ❤️ por Silvanei Martins

@@ -26,6 +26,11 @@ Para mais conteúdos educativos sobre desenvolvimento de software, verifique o m
 
 Este é um projeto de backend robusto e eficiente construído com Node.js, Express, JSON Web Token (JWT), Prisma Client e Amazon Simple Email Service (SES) SDK. O projeto foi estruturado para suportar uma aplicação de grande escala, com foco em segurança, desempenho e eficiência que vamos conectar com uma aplicação mobile.
 
+<h1 align="center">
+    <a href="https://imgur.com/RlSava1"><img src="https://i.imgur.com/RlSava1.png" title="source: imgur.com" /></a>
+    <br />
+</h1>
+
 # Tecnologias usado no Backend
 
 Biblioteca utilizado em produção

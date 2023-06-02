@@ -1,4 +1,5 @@
 import express from 'express';
+import { PORT } from './config';
 
 import {
     authRoutes,
@@ -21,6 +22,6 @@ app.use("/api/v1", authRoutes);
 app.use("/api/v1", userRoutes);
 app.use("/api/v1", tweetRoutes);
 
-app.listen(3000, () => {
-    console.log('Servidor está rodando na porta 3000!');
+app.listen(PORT, () => {
+    console.log(`🚀 Servidor está rodando na porta ${PORT}!`);
 });
